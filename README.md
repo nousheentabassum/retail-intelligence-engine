@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/Docker-20.10+-blue.svg)](https://www.docker.com/)
+[![Real-time Alerts](https://img.shields.io/badge/Real-time-WebSocket-red.svg)]()
+[![Advanced Analytics](https://img.shields.io/badge/Advanced-Filtering-purple.svg)]()
 
 🎯 **Enterprise-grade AI-driven retail decision system** showcasing advanced software development skills with **real-time forecasting**, **intelligent recommendations**, and **comprehensive analytics**.
 
