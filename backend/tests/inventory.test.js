@@ -2,7 +2,7 @@ import { jest } from '@jest/globals';
 import request from 'supertest';
 import { app } from '../src/app.js';
 import { initDb, closeDb } from '../src/config/db.js';
-
+            
 describe('Inventory Endpoints', () => {
   let authToken;
 
